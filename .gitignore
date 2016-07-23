@@ -1,3 +1,5 @@
-idea
+# .gitignore
+
+.idea
 node_modules
-bower_component
+dist
