@@ -1,0 +1,25 @@
+{
+  "name": "bootstarp-3",
+  "version": "1.0.0",
+  "description": "Learning bootstrap3 in nutshell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchathu2014/bootstarp-3.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "responsive",
+    "web",
+    "design"
+  ],
+  "author": "T.D.N.Chathuranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nchathu2014/bootstarp-3/issues"
+  },
+  "homepage": "https://github.com/nchathu2014/bootstarp-3#readme"
+}
